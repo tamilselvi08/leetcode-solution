@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tamilselvi08/leetcode-solution/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tamilselvi08/leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
