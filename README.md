@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0065-valid-number) |
 ## Array
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
