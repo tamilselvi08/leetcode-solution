@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tamilselvi08/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0065-valid-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
 | ------- |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
