@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tamilselvi08/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tamilselvi08/leetcode-solution/tree/master/0001-two-sum) |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,5 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
