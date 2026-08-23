@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tamilselvi08/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tamilselvi08/leetcode-solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tamilselvi08/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0065-valid-number) |
 | [0344-reverse-string](https://github.com/tamilselvi08/leetcode-solution/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tamilselvi08/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tamilselvi08/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
