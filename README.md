@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0065-valid-number) |
+| [0115-distinct-subsequences](https://github.com/tamilselvi08/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/tamilselvi08/leetcode-solution/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tamilselvi08/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/tamilselvi08/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [1140-stone-game-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tamilselvi08/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Minimax
