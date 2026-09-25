@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/tamilselvi08/leetcode-solution/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/tamilselvi08/leetcode-solution/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/tamilselvi08/leetcode-solution/tree/master/0344-reverse-string) |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tamilselvi08/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/tamilselvi08/leetcode-solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tamilselvi08/leetcode-solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tamilselvi08/leetcode-solution/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tamilselvi08/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tamilselvi08/leetcode-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tamilselvi08/leetcode-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tamilselvi08/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -180,5 +184,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tamilselvi08/leetcode-solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/tamilselvi08/leetcode-solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
